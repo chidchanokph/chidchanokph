@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Chid! 👋 </h1>
 
-![](https://github.com/chidchanokph/chidchanokph/blob/main/cover.gif)
+![](https://github.com/chidchanokph/chidchanokph/blob/main/SM%20World%20(2).gif)
 
 ## About Me
 👩‍💻 I'm currently working on...
