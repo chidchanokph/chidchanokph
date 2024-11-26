@@ -1,6 +1,6 @@
 ## Hi, I'm Chid! 👋
 
-![](https://github.com/chidchanokph/cover.gif)
+![]([https://github.com/chidchanokph/cover.gif](https://github.com/chidchanokph/chidchanokph/blob/main/cover.gif))
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
