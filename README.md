@@ -1,7 +1,8 @@
-## Hi, I'm Chid! 👋
+<h1 align="center"> Hi, I'm Chid! 👋 </h1>
+
 ![](https://github.com/chidchanokph/chidchanokph/blob/main/cover.gif)
 
-## Other Common Github Profile Sections
+## About Me
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
